@@ -8,4 +8,5 @@ https://sub.443888.xyz/sub?uuid=bbbbbbbb-bbbb-4bbb-bbbb-bbbbbbbbbbbb&path=%2FFre
 实例1
 https://sub.443888.xyz/sub?uuid=5adab1c6-86f3-43e4-baf2-e59121976abd&path=%2FFree-CF-Proxy-192.3.113.4-19318&security=tls&encryption=none&host=部署的域名&fp=randomized&type=ws&sni=部署的域名   把 部署的域名 替换成自己的
 
+<img width="875" height="575" alt="71db7526-8126-4af2-b933-5f08191aa5f1" src="https://github.com/user-attachments/assets/ca48d50f-d070-4919-a24b-838a626478f5" />
 
