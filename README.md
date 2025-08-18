@@ -5,4 +5,7 @@
 实例
 https://sub.443888.xyz/sub?uuid=bbbbbbbb-bbbb-4bbb-bbbb-bbbbbbbbbbbb&path=%2FFree-CF-Proxy-KR4&security=tls&encryption=none&host=部署的域名&fp=randomized&type=ws&sni=部署的域名   把 部署的域名 替换成自己的  /Free-CF-Proxy-KR4 反代 可以从自己部署的国家中选择 自行替换  同时也支持 /Free-CF-Proxy-192.3.113.4-19318 这种方式的反代填写  备注 UUID 可以 随意替换 都能识别
 
+实例1
+https://sub.443888.xyz/sub?uuid=5adab1c6-86f3-43e4-baf2-e59121976abd&path=%2FFree-CF-Proxy-192.3.113.4-19318&security=tls&encryption=none&host=部署的域名&fp=randomized&type=ws&sni=部署的域名   把 部署的域名 替换成自己的
+
 
